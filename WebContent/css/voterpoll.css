@@ -1,0 +1,33 @@
+@CHARSET "ISO-8859-1";
+.text-center{
+	
+	text-align:"center";
+	text-align:"justify";
+	margin-top:90px;
+	padding-top:25px;
+	padding-bottom:25px;
+	margin-left:450px;
+	border:0.3rem solid black;
+	border-radius:10px;
+	width:391px;
+}
+
+.btn{
+	height:30px
+	width:112px;
+}
+
+.btn:hover{
+	background-color:#4CAF50;
+	height:40px;
+	width:140px;
+	
+}
+
+body{
+	 background-position: center;
+	background-repeat: no-repeat;
+    background-size: cover;
+	
+
+}
